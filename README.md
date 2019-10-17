@@ -1,2 +1,3 @@
 # bitcoin
-Collection of PHP Classes that work with various BitCoinApis
+Simple collection of simple PHP Classes that work with various BitCoinApis for various reasons ;-)
+
